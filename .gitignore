@@ -1,0 +1,14 @@
+.idea
+.ipynb_checkpoints
+.vscode
+DBUpdater
+jypiter
+training
+deathcase.ipynb
+modelling.ipynb
+ObsStation.ipynb
+problem.csv
+problem2.csv
+SecondPhaseObsStation.ipynb
+SentinelGrabber.py.ipynb
+Untitled.ipynb

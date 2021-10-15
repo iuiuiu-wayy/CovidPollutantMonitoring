@@ -1,0 +1,12 @@
+requests
+numpy
+lxml
+Flask-SQLAlchemy
+SQLAlchemy
+pandas
+scipy 
+dash
+Flask
+plotly
+dash-bootstrap-components
+gunicorn
