@@ -1,6 +1,6 @@
 from projectApp import create_app
 
-server = create_app()
-# server = app
+app = create_app()
+server = app.server
 if __name__ == '__main__':
-    server.run(debug=True)
+    app.run(debug=True)
