@@ -10,3 +10,4 @@ Flask
 plotly
 dash-bootstrap-components
 gunicorn
+psycopg2
